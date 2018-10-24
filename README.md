@@ -110,7 +110,7 @@ This project setup minifies your CSS and adds vendor prefixes to it automaticall
 
 ## Linter
 
-In order to lint the code, the project uses [ESLint](https://eslint.org/), which is provided by [Create React App](https://github.com/facebook/create-react-app). We have tweaked the rules a bit and you can find them on the `.eslintrc` file.
+In order to lint the code, the project uses [ESLint](https://eslint.org/), which is provided by [Create React App](https://github.com/facebook/create-react-app).
 
 If you want to run the linter just type:
 ```bash
